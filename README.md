@@ -1,1 +1,57 @@
-# ukshela-kwami
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TO UMSHAYELI</title>
+  <style>
+    body {
+      background-color: black;
+      color: pink;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      min-height: 100vh;
+      margin: 0;
+      font-family: Arial, sans-serif;
+      padding: 20px;
+    }
+
+    h1 {
+      font-size: 4rem;
+      margin-bottom: 20px;
+      text-transform: uppercase;
+    }
+
+    p {
+      font-size: 1.2rem;
+      max-width: 700px;
+      line-height: 1.6;
+      margin-bottom: 30px;
+    }
+
+    video {
+      width: 60%;
+      max-width: 500px;
+      border: 2px solid pink;
+      border-radius: 10px;
+    }
+  </style>
+</head>
+<body>
+  <h1>TO UMSHAYELI</h1>
+
+  <p>
+    I just want you to know how much you mean to me. Being with you and spending time with you
+    just makes so much sense and I'm so grateful to be uPrincess Driver. I love you muh babe!
+  </p>
+
+  <!-- Video -->
+  <video controls>
+    <source src="ADLGE7274.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</body>
+</html>
